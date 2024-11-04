@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/cryptex.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Telegram](https://T,Me/Makavael).
+If you want to contact with me you can reach me at [Telegram](https://T.Me/Makavael).
 
 ### License
 
